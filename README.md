@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=TAEWWON'S GITHUB&fontSize=90)
 # 👋 Hi, I'm Taewon (김태원)
 
 - ⚡ 전자공학 / FPGA / 디지털 회로 설계
