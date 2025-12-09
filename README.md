@@ -8,13 +8,13 @@
   <tr>
 <td width="60%" valign="top">
 
-        <h3>👋 Hi, I'm Taewon (김태원)</h3>
-        <ul>
-          <li>⚡ 전자공학 / FPGA / 디지털 회로 설계</li>
-          <li>💻 RISC-V 파이프라인 CPU, UART/I2C/SPI IP, Basys3 프로젝트</li>
-          <li>🧪 SystemVerilog / UVM 기반 검증 공부 중</li>
-          <li>🌱 Python으로 자동화/툴링 프로젝트 진행</li>
-        </ul>
+    👋 Hi, I'm Taewon (김태원)
+        
+    ⚡ 전자공학 / FPGA / 디지털 회로 설계
+    💻 RISC-V 파이프라인 CPU, UART/I2C/SPI IP, Basys3 프로젝트
+    🧪 SystemVerilog / UVM 기반 검증 공부 중
+    🌱 Python으로 자동화/툴링 프로젝트 진행
+        
 
 </td>
 
