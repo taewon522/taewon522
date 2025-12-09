@@ -27,6 +27,13 @@
   </tr>
 </table>
 
+#  project
+### I2C-kit 제작및 이를 활용한 식물 재배 시스템
+### RISC-V SINGLE CYCLE
+### APB & AXI Protocol
+### UART
+### I2C 
+
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taewon138@gmail.com) 
