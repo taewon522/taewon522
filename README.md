@@ -1,11 +1,10 @@
 <div align="center">
-
+  
   ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&customColorList=17&height=300&section=header&text=TAEWON's%20Github-nl-&desc=김태원%20|%20FPGA%20%C2%B7%20Embedded%20Projects&stroke=FFFFFF&animation=fadeIn&fontSize=90)
 </div>
 
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> A little more about me...
-
-
 <table width="100%">
 <tr>
 <td width="70%" valign="top">
@@ -23,15 +22,11 @@
 [Verilog] • UART를 이용한 WATCH & DHT11 & SR04 설계
 [MCU]     • 안정성을 고려한 I2C KIT 제작 및 이를 활용한 식물 재배 시스템
 </pre>
-
-
 </ul>
 </td>
-
 <td width="30%" valign="top" align="center">
 <h3>• Developer Quotes </h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true" />
-
 </td>
 </tr>
 </table>
@@ -39,12 +34,76 @@
 
 
 
+
 ## project
-### I2C-kit 제작및 이를 활용한 식물 재배 시스템
-### RISC-V SINGLE CYCLE
-### APB & AXI Protocol
-### UART
-### I2C 
+<table width="100%">
+<tr>
+
+<!-- 카드 1: I2C -->
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/taewon522/I2C_Inter-Integrated-Circuit">
+  <img src="https://raw.githubusercontent.com/taewon522/I2C_Inter-Integrated-Circuit/main/image/I2c_TITLE.png" alt="I2C Project" width="120">
+</a>
+
+<p>────────────</p>
+
+<h4>Title: I2C & </h4>
+
+<p>────────────</p>
+
+<h4>
+  Link:
+ <a href="https://github.com/taewon522/I2C_Inter-Integrated-Circuit">
+  <img src="https://img.shields.io/badge/I2C%20PROJECT-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</h4>
+</td>
+
+<!-- 카드 2: UART -->
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/taewon522/UART_Project">
+  <img src="https://via.placeholder.com/120x120.png?text=UART" alt="UART Project" width="120">
+</a>
+
+<p>────────────</p>
+
+<h4>Title: UART Serial Communication</h4>
+
+<p>────────────</p>
+
+<h4>
+  Link:
+  <a href="https://github.com/taewon522/UART_Project">
+    <img src="https://img.shields.io/badge/UART_Project-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</h4>
+</td>
+
+<!-- 카드 3: Other -->
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/taewon522/Some_Other_Project">
+  <img src="https://via.placeholder.com/120x120.png?text=PROJECT" alt="Other Project" width="120">
+</a>
+
+<p>────────────</p>
+
+<h4>Title: Other Project Title</h4>
+
+<p>────────────</p>
+
+<h4>
+  Link:
+  <a href="https://github.com/taewon522/Some_Other_Project">
+    <img src="https://img.shields.io/badge/Other_Project-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</h4>
+</td>
+
+</tr>
+</table>
+
+
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
