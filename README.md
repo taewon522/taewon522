@@ -80,25 +80,26 @@
 </h4>
 </td>
 
-<!-- 카드 3: Other -->
+<!-- 카드 3: APB -->
 <td width="33%" align="center" valign="top">
-<a href="https://github.com/taewon522/Some_Other_Project">
-  <img src="https://via.placeholder.com/120x120.png?text=PROJECT" alt="Other Project" width="120">
-</a>
-
-<p>────────────</p>
-
-<h4>Title: Other Project Title</h4>
-
-<p>────────────</p>
-
-<h4>
-  Link:
-  <a href="https://github.com/taewon522/Some_Other_Project">
-    <img src="https://img.shields.io/badge/Other_Project-000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/taewon522/APB-Design-and-Verification">
+    <img src="https://img.shields.io/badge/APB-Design%20%26%20Verification-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="APB Design & Verification" />
   </a>
-</h4>
+
+  <p>────────────</p>
+
+  <h4>Title: APB Master Design & Verification</h4>
+
+  <p>────────────</p>
+
+  <h4>
+    Link:
+    <a href="https://github.com/taewon522/APB-Design-and-Verification">
+      <img src="https://img.shields.io/badge/APB_Design_&_Verification-000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </h4>
 </td>
+
 
 </tr>
 </table>
