@@ -16,7 +16,7 @@
 <p><strong>&nbsp;• project preview..</strong></p>
 <pre>
 [Verilog] • <a href="https://github.com/taewon522/RISC-V_Design_Verification">RISC-V SINGLE CYCLE & MULTI CYCLE 설계</a>
-[Verilog] • <a href="https://github.com/taewon522/REPO2">AMBA BUS(APB & AXI) protocol 설계</a>
+[Verilog] • <a href="https://github.com/taewon522/APB-Design-and-Verification">AMBA BUS(APB & AXI) protocol 설계</a>
 [Verilog] • <a href="https://github.com/taewon522/REPO4">UART/I2C/SPI 통신 protocol 설계</a>
 [Verilog] • <a href="https://github.com/taewon522/REPO4">RISC-V 기반 AMBA BUS(APB) 및 Peripherals 연동 </a>
 [Verilog] • <a href="https://github.com/taewon522/REPO4">MicroBlazor 기반 AMBA BUS(AXI-Lite) 및 Peripherals 연동 </a>
