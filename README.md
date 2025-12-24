@@ -17,8 +17,10 @@
 <pre>
 [Verilog] • <a href="https://github.com/taewon522/RISC-V_Design_Verification">RISC-V SINGLE CYCLE & MULTI CYCLE 설계</a>
 [Verilog] • <a href="https://github.com/taewon522/REPO2">AMBA BUS(APB & AXI) protocol 설계</a>
-[Verilog] • <a href="https://github.com/taewon522/REPO3">OV7670을 이용한 NINJA FRUIT GAME</a>
 [Verilog] • <a href="https://github.com/taewon522/REPO4">UART/I2C/SPI 통신 protocol 설계</a>
+[Verilog] • <a href="https://github.com/taewon522/REPO4">RISC-V 기반 AMBA BUS(APB) 및 Peripherals 연동 </a>
+[Verilog] • <a href="https://github.com/taewon522/REPO4">MicroBlazor 기반 AMBA BUS(AXI-Lite) 및 Peripherals 연동 </a>
+[Verilog] • <a href="https://github.com/taewon522/REPO3">OV7670을 이용한 NINJA FRUIT GAME</a>
 [Verilog] • <a href="https://github.com/taewon522/REPO5">UART를 이용한 WATCH & DHT11 & SR04 설계</a>
 [MCU]     • <a href="https://github.com/taewon522/REPO6">안정성을 고려한 I2C KIT 제작 및 이를 활용한 식물 재배 시스템</a>
 </pre>
