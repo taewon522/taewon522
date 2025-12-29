@@ -17,7 +17,7 @@
 <pre>
 [Verilog] • <a href="https://github.com/taewon522/RISC-V_Design_Verification">RISC-V SINGLE CYCLE & MULTI CYCLE 설계</a>
 [Verilog] • <a href="https://github.com/taewon522/AMBA-BUS_APB-AXI_Design-Verification">AMBA BUS(APB & AXI) protocol 설계</a>
-[Verilog] • <a href="https://github.com/taewon522/REPO4">UART/I2C/SPI 통신 protocol 설계</a>
+[Verilog] • <a href="https://github.com/taewon522/UART-I2C-SPI-protocol-design">UART/I2C/SPI 통신 protocol 설계</a>
 [Verilog] • <a href="https://github.com/taewon522/REPO4">RISC-V 기반 AMBA BUS(APB) 및 Peripherals 연동 </a>
 [Verilog] • <a href="https://github.com/taewon522/REPO4">MicroBlazor 기반 AMBA BUS(AXI-Lite) 및 Peripherals 연동 </a>
 [Verilog] • <a href="https://github.com/taewon522/REPO3">OV7670을 이용한 NINJA FRUIT GAME</a>
